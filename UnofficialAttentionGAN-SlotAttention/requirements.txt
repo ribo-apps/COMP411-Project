@@ -1,0 +1,10 @@
+attr==0.3.2
+attrs==18.1.0
+matplotlib==2.2.2
+numpy==1.14.3
+opencv_transforms==0.0.6
+Pillow
+pytorch_lightning
+torch
+torchvision
+wandb
