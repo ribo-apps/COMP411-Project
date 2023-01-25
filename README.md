@@ -2,7 +2,7 @@
 
 # Translation
 
-## Berke Can Rizai (69282) — Eren Barıs ̧ Bostancı (68770)
+## Berke Can Rizai — Eren Barıs ̧ Bostancı
 
 ## January 25, 2023
 
