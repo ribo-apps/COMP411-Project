@@ -1,6 +1,4 @@
-# 9 Slots Are All You Need For Unpaired Image-to-Image
-
-# Translation
+# 9 Slots Are All You Need For Unpaired Image-to-Image Translation
 
 ## Berke Can Rizai — Eren Barıs ̧ Bostancı
 
