@@ -1,6 +1,6 @@
 # 9 Slots Are All You Need For Unpaired Image-to-Image Translation
 
-## Berke Can Rizai — Eren Barıs ̧ Bostancı
+## Berke Can Rizai — Eren Barış Bostancı
 
 ## January 25, 2023
 
